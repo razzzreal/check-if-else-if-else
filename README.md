@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h> /*many code run one*/
 void main()
 {
     int a;
